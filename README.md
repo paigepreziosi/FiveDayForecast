@@ -18,7 +18,7 @@ This project is a weather dashboard that will allow the user to search for a cit
 - I WANT to see the weather outlook for multiple cities
 - SO THAT I can plan a trip accordingly
 
-## 3. Acceptance CriteriaGIVEN I am using a daily planner to create a schedule
+## 3. Acceptance CriteriaGIVEN 
 - GIVEN a weather dashboard with form inputs
 - WHEN I search for a city
 - THEN I am presented with current and future conditions for that city and that city is added to the search history
