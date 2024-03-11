@@ -1,5 +1,9 @@
 # FiveDayForecast
 
+<img width="1091" alt="Screenshot 2024-03-10 at 8 07 30 PM" src="https://github.com/paigepreziosi/FiveDayForecast/assets/151070992/d4b2a5ce-3fe8-4636-abab-1a183a72ee66">
+<img width="1069" alt="Screenshot 2024-03-10 at 8 07 38 PM" src="https://github.com/paigepreziosi/FiveDayForecast/assets/151070992/863ecb47-83e4-4ca4-8c14-b16ad87bfffc">
+
+
 ## Table of Contents
 1. Project Description
 2. User Story
